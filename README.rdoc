@@ -1,3 +1,7 @@
+## My completed version of Ruby Koans ##
+
+This is my completed version of the Neo Ruby Koans exercises. Read below for full instructions on how to use the koans.
+
 = Neo Ruby Koans
 
 The Ruby Koans walk you along the path to enlightenment in order to learn Ruby.
