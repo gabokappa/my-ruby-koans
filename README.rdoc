@@ -1,4 +1,4 @@
-## My completed version of Ruby Koans ##
+= My completed version of Ruby Koans
 
 This is my completed version of the Neo Ruby Koans exercises. Read below for full instructions on how to use the koans.
 
